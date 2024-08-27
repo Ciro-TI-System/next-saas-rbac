@@ -1,81 +1,51 @@
-# Turborepo starter
+<h1 align="center"> 
+SaaS Next.js RBAC
+</h1>
 
-This is an official starter Turborepo.
+<p align="center">
+⚙️ Desenvolvimento de um projeto SaaS com Next.js, abordando fundamentos de permissionamento como RBAC e ABAC. Utilizando Node.js, Fastify e Prisma no back-end, e Next.js 14 no front-end com Server Components e Server Actions. Implementando o monorepo para manter back-end e front-end juntos. O TurboRepo será utilizado para acelerar processos, evitando execuções desnecessárias. Fazendo ajustes nos pacotes e configurações para iniciar o projeto NextSAS-RBAC. ⚙️
+</p>
 
-## Using this example
+<br>
 
-Run the following command:
+  <img src=".github/">
 
-```sh
-npx create-turbo@latest
-```
+<br>
 
-## What's inside?
+## 🛠 Tecnologias
 
-This Turborepo includes the following packages/apps:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-### Apps and Packages
+- **[MonoRepo](#)**
+- **[TurboRepo](#)**
+- **[pnpm](#)**
+- **[NextJS](#)**
 
-- `docs`: a [Next.js](https://nextjs.org/) app
-- `web`: another [Next.js](https://nextjs.org/) app
-- `@repo/ui`: a stub React component library shared by both `web` and `docs` applications
-- `@repo/eslint-config`: `eslint` configurations (includes `eslint-config-next` and `eslint-config-prettier`)
-- `@repo/typescript-config`: `tsconfig.json`s used throughout the monorepo
+<br>
 
-Each package/app is 100% [TypeScript](https://www.typescriptlang.org/).
+## 🎨 Layout
 
-### Utilities
+Você pode visualizar o layout do projeto através [DESSE LINK](#). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-This Turborepo has some additional tools already setup for you:
+<br>
 
-- [TypeScript](https://www.typescriptlang.org/) for static type checking
-- [ESLint](https://eslint.org/) for code linting
-- [Prettier](https://prettier.io) for code formatting
+## 📝 License
 
-### Build
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+<p align="center">Esse projeto está sob a licença MIT.</p>
 
-To build all apps and packages, run the following command:
+<br>
 
-```
-cd my-turborepo
-pnpm build
-```
+### 👨‍💻 Autor
 
-### Develop
+ <img style="border-radius: 50%;" src="./public/TI-System.png" width="100px;" alt=""/>
+ <em>Ciro Batista da Silva<em>
+ 
+ <br/>
 
-To develop all apps and packages, run the following command:
+ <p>👋🏽 Entre em contato!</p>
 
-```
-cd my-turborepo
-pnpm dev
-```
-
-### Remote Caching
-
-Turborepo can use a technique known as [Remote Caching](https://turbo.build/repo/docs/core-concepts/remote-caching) to share cache artifacts across machines, enabling you to share build caches with your team and CI/CD pipelines.
-
-By default, Turborepo will cache locally. To enable Remote Caching you will need an account with Vercel. If you don't have an account you can [create one](https://vercel.com/signup), then enter the following commands:
-
-```
-cd my-turborepo
-npx turbo login
-```
-
-This will authenticate the Turborepo CLI with your [Vercel account](https://vercel.com/docs/concepts/personal-accounts/overview).
-
-Next, you can link your Turborepo to your Remote Cache by running the following command from the root of your Turborepo:
-
-```
-npx turbo link
-```
-
-## Useful Links
-
-Learn more about the power of Turborepo:
-
-- [Tasks](https://turbo.build/repo/docs/core-concepts/monorepos/running-tasks)
-- [Caching](https://turbo.build/repo/docs/core-concepts/caching)
-- [Remote Caching](https://turbo.build/repo/docs/core-concepts/remote-caching)
-- [Filtering](https://turbo.build/repo/docs/core-concepts/monorepos/filtering)
-- [Configuration Options](https://turbo.build/repo/docs/reference/configuration)
-- [CLI Usage](https://turbo.build/repo/docs/reference/command-line-reference)
+[![Twitter Badge](https://img.shields.io/badge/-@CiroSilva2020-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/CiroSilva2020)](https://twitter.com/CiroSilva2020) [![Linkedin Badge](https://img.shields.io/badge/-Ciro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ciro-batista-da-silva-8b6838205/)](https://www.linkedin.com/in/ciro-batista-da-silva-8b6838205/)
+[![Gmail Badge](https://img.shields.io/badge/-cirofight@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cirofight@gmail.com)](mailto:cirofight@gmail.com)
