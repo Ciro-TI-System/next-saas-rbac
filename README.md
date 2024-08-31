@@ -20,6 +20,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - **[TurboRepo](#)**
 - **[pnpm](#)**
 - **[NextJS](#)**
+- **[RBAC](#)**
+- **[ABAC](#)**
+- **[SaaS](#)**
+- **[NodeJS](#)**
+- **[Fastify](#)**
+- **[Prisma](#)**
 
 <br>
 
