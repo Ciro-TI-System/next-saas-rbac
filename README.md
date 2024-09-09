@@ -16,8 +16,8 @@ SaaS Next.js RBAC
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- **[MonoRepo](#)**
-- **[TurboRepo](#)**
+- **[MonoRepo](https://monorepo.tools/)**
+- **[TurboRepo](https://turbo.build/)**
 - **[pnpm](#)**
 - **[NextJS](#)**
 - **[RBAC](#)**
