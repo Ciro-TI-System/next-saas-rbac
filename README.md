@@ -23,8 +23,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - **[RBAC](#)**
 - **[ABAC](#)**
 - **[SaaS](#)**
+- **[CASL](https://casl.js.org/v6/en/)**
 - **[NodeJS](#)**
 - **[Fastify](#)**
+- **[tsconfig/bases](https://github.com/tsconfig/bases)**
 - **[Prisma](#)**
 
 <br>

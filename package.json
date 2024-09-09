@@ -9,6 +9,9 @@
   "devDependencies": {
     "turbo": "latest"
   },
+  "resolutions": {
+    "eslint": "^9.9.1"
+  },
   "packageManager": "pnpm@8.15.6",
   "engines": {
     "node": ">=18"
